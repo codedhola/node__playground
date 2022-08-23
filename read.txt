@@ -1,0 +1,1 @@
+ This has been re-written by the writeFIle system module added the synchronous method This 'METHOD' adds data to the selected file

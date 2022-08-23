@@ -1,0 +1,1 @@
+This is a text file to practise on the node file system module
