@@ -20,3 +20,14 @@ console.log(`
     ${searchParams}
 `);
 
+
+
+
+
+
+
+
+
+
+// Aurthor: CODED-HOLA
+// Based on my 100DAYSOFCODE CODING PRACTICE
