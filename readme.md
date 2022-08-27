@@ -7,3 +7,6 @@
  - path
  - event
  - process
+ - readinput
+ - url
+ - http
