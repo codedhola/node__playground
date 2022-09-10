@@ -1,3 +1,4 @@
+// A PROMISE CREATION EXAMPLE 
 const fs = require("fs");
 
 function getFile(file){
@@ -11,5 +12,5 @@ module.exports = {
     getFile
 }
 
-
-
+// Aurthor: CODED-HOLA
+// Based on my 100DAYSOFCODE CODING PRACTICE

@@ -53,10 +53,5 @@ fs.unlink("newcopy.txt", (err) => {
     console.log("File has been deleted successfully...");
 });
 
-
-
-
-
-
 // Aurthor: CODED-HOLA
 // Based on my 100DAYSOFCODE PRACTICE

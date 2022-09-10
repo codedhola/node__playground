@@ -3,7 +3,6 @@
 
 const eventEmitter = require("events");
 
-
 // THIS CALLS THE EVENTS CLASS 
 const events = new eventEmitter();
 
@@ -54,13 +53,6 @@ myEmitter.emit('event', 1, 2, 3, 4, 5, 6);
 // Helloooo! first listener
 // event with parameters 1, 2 in second listener
 // event with parameters 1, 2, 3, 4, 5 in third listener
-
-
-
-
-
-
-
 
 
 // Aurthor: CODED-HOLA

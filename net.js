@@ -14,11 +14,6 @@
     });
 
 
-
-
-
-
-
 /**
  * 
  * // EXAMPLE OF A NET/HTTP CONNECTION
@@ -86,24 +81,6 @@ proxy.listen(1337, '127.0.0.1', () => {
  */
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 /*
 
 const net = require('net');
@@ -124,9 +101,6 @@ server.listen(8124, () => {
 });
 
 */
-
-
-
 
 // Aurthor: CODED-HOLA
 // Based on my 100DAYSOFCODE CODING PRACTICE

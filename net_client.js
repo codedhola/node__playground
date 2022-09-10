@@ -4,14 +4,6 @@ const connect = net.createConnection(3000); // THIS CREATES A CONNECTION TO THE 
 
 const client = net.createConnection(3000); // THIS CREATES A CONNECTION TO THE TCP SERVER
 
-
-
-
-
-
-
-
-
 // HAVEN'T HANDLED ERROR ONCE A DISCONNECTION OCCUR > *** <
 
 

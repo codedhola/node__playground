@@ -21,22 +21,5 @@ else {
 // PORT LISTENING TO
 server.listen(3000);
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 // Aurthor: CODED-HOLA
 // Based on my 100DAYSOFCODE CODING PRACTICE

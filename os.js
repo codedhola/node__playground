@@ -19,13 +19,5 @@ const osDir = os.homedir();
 // TIME SYSTEM IS ALIVE
 const uptime = os.uptime();
 
-
-
-
-
-
-
-
-
 // Aurthor: CODED-HOLA
 // Based on my 100DAYSOFCODE CODING PRACTICE

@@ -40,13 +40,5 @@ rl.on('line', (line) => {
   process.exit(0);
 });
 
-
-
-
-
-
-
-
-
 // Aurthor: CODED-HOLA
 // Based on my 100DAYSOFCODE CODING PRACTICE

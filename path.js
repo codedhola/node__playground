@@ -24,11 +24,5 @@ ${parser}
 ${join}
 `);
 
-
-
-
-
-
-
 // Aurthor: CODED-HOLA
 // Based on my 100DAYSOFCODE CODING PRACTICE
